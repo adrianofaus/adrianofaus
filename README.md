@@ -10,4 +10,4 @@ Leonardo da Vinci
 - 🎮 Games, movies and books
 - 📫 Reach me through faustino.adr@gmail.com or my linkedin
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=adrianofaus&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=adrianofaus&show_icons=true&theme=merko)](https://github.com/anuraghazra/github-readme-stats)
