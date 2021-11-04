@@ -1,7 +1,7 @@
 Hi there 👋
 
 "Learning never exhausts the mind."
-- Leonardo da Vinci
+Leonardo da Vinci
 
 - 💻 Studying Software Engineering as a Cadet at École 42 São Paulo
 - 🎓 Graduated Mechanical Engineer
@@ -10,4 +10,4 @@ Hi there 👋
 - 🎮 Games, movies and books
 - 📫 Reach me through faustino.adr@gmail.com or my linkedin
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=adrianofaus)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=adrianofaus&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
