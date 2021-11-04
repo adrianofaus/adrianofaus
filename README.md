@@ -10,6 +10,6 @@ Hi there 👋
 - 🎮 Games, movies and books
 - 📫 Reach me through faustino.adr@gmail.com or my linkedin
 
-[![Adriano's GitHub stats](https://github-readme-stats.vercel.app/api?username=adrianofaus&count_private=true&show_icons=true&hide=issues&theme=tokyonight)](https://github.com/adrianofaus/github-readme-stats)[![Adriano's Most used Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=adrianofaus&layout=compact&hide_border=true&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
+[![Adriano's GitHub stats](https://github-readme-stats.vercel.app/api?username=adrianofaus&count_private=true&show_icons=true&hide=issues&hide_border=true&theme=tokyonight)](https://github.com/adrianofaus/github-readme-stats)[![Adriano's Most used Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=adrianofaus&layout=compact&hide_border=true&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
 
 
