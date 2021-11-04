@@ -1,7 +1,7 @@
 Hi there 👋
 
-"Learning never exhausts the mind."
-Leonardo da Vinci
+"Learning never exhausts the mind."  - Leonardo da Vinci
+
 
 - 💻 Studying Software Engineering as a Cadet at École 42 São Paulo
 - 🎓 Graduated Mechanical Engineer
