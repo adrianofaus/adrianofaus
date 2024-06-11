@@ -2,7 +2,7 @@ Hi there 👋
 
 "Learning never exhausts the mind."  - Leonardo da Vinci
 
-
+- Currently working as a Software Engineer
 - 💻 Graduated in Software Engineering from École 42 São Paulo
 - 🎓 Graduated Mechanical Engineer
 - 📈 Worked with analysis in many fields
