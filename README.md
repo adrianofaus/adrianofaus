@@ -3,7 +3,7 @@ Hi there 👋
 "Learning never exhausts the mind."  - Leonardo da Vinci
 
 
-- 💻 Studying Software Engineering as a Cadet at École 42 São Paulo
+- 💻 Graduated in Software Engineering from École 42 São Paulo
 - 🎓 Graduated Mechanical Engineer
 - 📈 Worked with analysis in many fields
 - 🔮 Passionate about Tech, Math and Psycology
